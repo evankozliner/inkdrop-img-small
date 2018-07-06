@@ -1,1 +1,1 @@
-Make images smaller (240px in height) in both syntax and preview view.
+Make images smaller (360px in height) in both syntax and preview view.
